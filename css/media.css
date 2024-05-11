@@ -1,0 +1,15 @@
+@media only screen and (max-width:576px){
+	.pre-header-info{
+		justify-content:center; 
+	}
+	.header-button{
+		display:none;
+	}
+	
+	
+	
+	
+	.hide{
+		display:none;
+	}
+}
